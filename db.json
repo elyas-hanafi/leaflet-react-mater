@@ -1,0 +1,74 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Pizza Place",
+      "lat": 51.505,
+      "lng": -0.09,
+      "description": "Best pizza in town"
+    },
+    {
+      "id": 2,
+      "name": "Burger Joint",
+      "lat": 51.515,
+      "lng": -0.1,
+      "description": "Delicious burgers"
+    },
+    {
+      "id": 3,
+      "name": "Sushi Spot",
+      "lat": 51.51,
+      "lng": -0.12,
+      "description": "Fresh sushi rolls"
+    },
+    {
+      "id": 4,
+      "name": "Pasta House",
+      "lat": 51.52,
+      "lng": -0.08,
+      "description": "Homemade pasta dishes"
+    },
+    {
+      "id": 5,
+      "name": "Taco Stand",
+      "lat": 51.48,
+      "lng": -0.1,
+      "description": "Tasty tacos"
+    },
+    {
+      "id": 6,
+      "name": "Steakhouse",
+      "lat": 51.49,
+      "lng": -0.11,
+      "description": "Juicy steaks"
+    },
+    {
+      "id": 7,
+      "name": "Steakhouse",
+      "lat": 51.515,
+      "lng": -0.11,
+      "description": "Plant-based meals"
+    },
+    {
+      "id": 8,
+      "name": "Dessert Corner",
+      "lat": 51.51,
+      "lng": -0.1,
+      "description": "Sweet treats"
+    },
+    {
+      "id": 9,
+      "name": "Coffee Shop",
+      "lat": 51.52,
+      "lng": -0.1,
+      "description": "Great coffee"
+    },
+    {
+      "id": 10,
+      "name": "Barbecue Joint",
+      "lat": 51.52,
+      "lng": -0.12,
+      "description": "Smoky barbecue"
+    }
+  ]
+}
